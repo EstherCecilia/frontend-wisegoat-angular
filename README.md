@@ -1,4 +1,6 @@
 # Wisegoat
+![image](https://user-images.githubusercontent.com/29818932/122837611-c37e6780-d2ca-11eb-95e7-149a953b4ba3.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
